@@ -1,0 +1,13 @@
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailCheckerConsole\bin\Debug\EmailCheckerConsole.exe.config
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailCheckerConsole\bin\Debug\EmailCheckerConsole.exe
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailCheckerConsole\bin\Debug\EmailCheckerConsole.pdb
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailCheckerConsole\bin\Debug\EmailCheckerDAL.dll
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailCheckerConsole\bin\Debug\MailKit.dll
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailCheckerConsole\bin\Debug\MimeKit.dll
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailCheckerConsole\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailCheckerConsole\bin\Debug\EmailCheckerDAL.pdb
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailCheckerConsole\bin\Debug\MailKit.xml
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailCheckerConsole\bin\Debug\MimeKit.xml
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailCheckerConsole\obj\Debug\EmailCheckerConsole.csprojResolveAssemblyReference.cache
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailCheckerConsole\obj\Debug\EmailCheckerConsole.exe
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailCheckerConsole\obj\Debug\EmailCheckerConsole.pdb

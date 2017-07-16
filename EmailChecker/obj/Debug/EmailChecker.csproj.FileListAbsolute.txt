@@ -1,0 +1,14 @@
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\bin\Debug\EmailChecker.exe.config
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\bin\Debug\EmailChecker.exe
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\bin\Debug\EmailChecker.pdb
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Debug\EmailChecker.csprojResolveAssemblyReference.cache
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Debug\MainWindow.g.cs
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Debug\App.g.cs
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Debug\EmailChecker_MarkupCompile.cache
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Debug\EmailChecker_MarkupCompile.lref
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Debug\MainWindow.baml
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Debug\EmailChecker.g.resources
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Debug\EmailChecker.Properties.Resources.resources
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Debug\EmailChecker.csproj.GenerateResource.Cache
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Debug\EmailChecker.exe
+c:\users\ten\documents\visual studio 2017\Projects\EmailChecker\EmailChecker\obj\Debug\EmailChecker.pdb
